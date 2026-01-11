@@ -1,6 +1,6 @@
 # 🚀 Google Cloud Vertex AI: Comprehensive Learning Guide
 
-Welcome to the beginner-friendly guide for navigating the Google Cloud Vertex AI ecosystem. [cite_start]This repository helps new users understand which product to use for their specific artificial intelligence and machine learning needs[cite: 30, 31, 35, 38].
+Welcome to the beginner-friendly guide for navigating the Google Cloud Vertex AI ecosystem. This repository helps new users understand which product to use for their specific artificial intelligence and machine learning needs. Often people confused which product to use and what is the difference between the products within the vertex AI and different use cases. Hence I am preparing this guide to understand the difference between the product and simple word describtions.
 
 ---
 
