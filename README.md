@@ -2,15 +2,17 @@
 
 Welcome to the beginner-friendly guide for navigating the Google Cloud Vertex AI ecosystem. This repository helps new users understand which product to use for their specific artificial intelligence and machine learning needs. Often people confused which product to use and what is the difference between the products within the vertex AI and different use cases. Hence I am preparing this guide to understand the difference between the product and simple word describtions.
 
----
+## Vertex AI Studio
+
+This one build for playgroud to test the models like Gemini without writing any code itself. Maninly for trying out ideas for the product to check if that works for user usecase. The UI looks like a simple promt section and config section on the right to adjust the temperature to customize the reply
 
 ## 🛠 Product Reference Matrix
 
-[cite_start]Use this table to quickly identify the right tool for your project [cite: 30-41, 55-58].
+Use this table to quickly identify the right tool for your project.
 
-| Product | Role in Ecosystem | Ideal Use Case |
+| Product | Role in Ecosystem | Product Details |
 | :--- | :--- | :--- |
-| **Vertex AI Studio** | **The Playground** | [cite_start]Testing prompts and ideas for products to check if they work for a specific use case without writing code[cite: 30, 31]. |
+| **Vertex AI Studio** | **The Playground** | This one build for playgroud  to test the models like Gemini without writing any code itself. Maninly for trying out ideas for the product to check if that works for user usecase. The UI looks like a simple promt section and config section on the right to adjust the temperature to customize the reply |
 | **Agent Builder** | **The Task Specialist** | [cite_start]Creating customer service chatbots or internal research assistants that access private company data and book appointments[cite: 33, 35]. |
 | **Vertex AI Search** | **Internal Google Search** | [cite_start]Building a search bar for company websites or PDF folders with no difficult coding required[cite: 40, 41]. |
 | **Model Garden** | **The AI App Store** | [cite_start]Browsing a library of 150+ models, including Google's Gemini, open-source Llama, or specialized medical models[cite: 55]. |
