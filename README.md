@@ -16,23 +16,23 @@ Below is the key parts of the agent builder:
 
 1. **Build: The "Creative" Phase -** This stage is about designing how your agent thinks and acts.
 
-- Agent Development Kit (ADK): The core open-source framework for building and controlling multi-agent systems.
-- Agent Garden: A "library" of pre-built solutions. You can grab Agents (full end-to-end solutions like a customer service bot) or Tools (individual skills like database access) to speed up development.
-- Agent Designer: A low-code visual tool where you can prototype and test your agent's logic before you start writing heavy code.
+    - Agent Development Kit (ADK): The core open-source framework for building and controlling multi-agent systems.
+    - Agent Garden: A "library" of pre-built solutions. You can grab Agents (full end-to-end solutions like a customer service bot) or Tools (individual skills like database access) to speed up development.
+    - Agent Designer: A low-code visual tool where you can prototype and test your agent's logic before you start writing heavy code.
 
 2. **Scale: The "Factory" Phase -** Once your agent works, you need to make it professional and reliable.
 
-- Vertex AI Agent Engine: The "brain" that runs your agent. It handles the "boring but hard" stuff like memory, session management, and code execution.
-- Agent Tools: These are the "power-ups" you give your agent, including:
-  - Grounding: Connecting the AI to Google Search or your own data (Vertex AI Search) so it doesn't "hallucinate."
-  - Connectors: Allowing the agent to talk to 100+ apps (like Salesforce or Gmail) or your own private APIs.
-  - Ecosystem Support: Integration with popular AI frameworks like LangChain and Model Context Protocol (MCP).
+    - Vertex AI Agent Engine: The "brain" that runs your agent. It handles the "boring but hard" stuff like memory, session management, and code execution.
+    - Agent Tools: These are the "power-ups" you give your agent, including:
+      - Grounding: Connecting the AI to Google Search or your own data (Vertex AI Search) so it doesn't "hallucinate."
+      - Connectors: Allowing the agent to talk to 100+ apps (like Salesforce or Gmail) or your own private APIs.
+      - Ecosystem Support: Integration with popular AI frameworks like LangChain and Model Context Protocol (MCP).
 
 3. **Govern: The "Security" Phase -** This ensures your agents are safe, compliant, and visible.
 
-- Observability: Full integration with Google Cloud Logging and Monitoring so you can see exactly what the agent is doing at all times.
-- Security Command Center: Specifically detects threats or attacks against your deployed agents.
-- Identity & Access (IAM): Uses standard Google security to control exactly who (or what) your agent is allowed to talk to.
+    - Observability: Full integration with Google Cloud Logging and Monitoring so you can see exactly what the agent is doing at all times.
+    - Security Command Center: Specifically detects threats or attacks against your deployed agents.
+    - Identity & Access (IAM): Uses standard Google security to control exactly who (or what) your agent is allowed to talk to.
 
 Learn more about the agent builder [here](https://docs.cloud.google.com/agent-builder/overview)
 
