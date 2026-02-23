@@ -14,7 +14,7 @@ Create agent based on the documents we want it to access, for an example a chat 
 
 ## Vertex AI Search
 
-This provides the same kind of google search like capacity to access the company internal resources and use those resources. Think of this as "Google Search for your company." The user can give it the website URL or a folder of PDFs, and it builds a search bar for you. No difficult coding config required. 
+This provides the same kind of google search like capacity to access the company's internal resources and use those resources. Think of this as "Google Search for your company." The user can give it the website URL or a folder of PDFs, and it builds a search bar for you. No difficult coding config required. 
 
 ## Model Garden on Vertex AI
 
@@ -22,13 +22,21 @@ A library of 150+ ready-to-use models. It’s like an app store for AI. This gar
 
 ## Vertex AI Workbench
 
-This part of the Vertex AI used for coding in the environment like Jupyter Notebook. This build in environment allows the users to code for Data Science to transform the data and prepare for the model input. Best use case would be for someone who know codes and wants to clean data for their specific projects to build a custom models. 
+This part of the Vertex AI used for coding in the environment like Jupyter Notebook. This build in environment allows the users to code for Data Science to transform the data and prepare for the model input. Best use case would be for someone who know codes and wants to clean data for their specific projects to build custom models. 
+
+![Screenshot of the project](images/vaworkbench.jpg)
 
 ## Vertex AI Pipelines
 
 Vertex AI pipelines is that conveyor belt for Machine Learning. If the user build the model manually, it allows users to connect different tasks—like "Get Data," "Train Model," and "Deploy Model"—into one automated workflow. The pipeline work anatomy would be 
 
 > Data Ingestion $\rightarrow$ Transformation $\rightarrow$ Training $\rightarrow$ Evaluation $\rightarrow$ Deployment (model registry $\rightarrow$ endpoints)
+
+![Screenshot of the project](images/vapipeline.jpg)
+
+## Dialogflow CX
+
+![Screenshot of the project](images/dfgraph.jpg)
 
 ## Vertex AI Vector Search
 
