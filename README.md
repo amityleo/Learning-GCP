@@ -6,11 +6,11 @@ Welcome to the beginner-friendly guide for navigating the Google Cloud Vertex AI
 
 This one build for playground  to test the models like Gemini without writing any code itself. Mainly for trying out ideas for the product to check if that works for user use case. The UI looks like a simple prompt section and config section on the right to adjust the temperature to customize the reply.
 
-![Screenshot of the project](images/test.png)
-
 ## Vertex AI Agent Builder
 
 Create agent based on the documents we want it to access, for an example a chat bot or IVR system that can only access company documents and database to answer queries. This not only access the files and access the sites, it can also book the appointments based on the requests. Best use case would be creating a customer service chatbot or an internal research assistant that knows your private business data.
+
+![Screenshot of the project](images/vaagent.jpg)
 
 ## Vertex AI Search
 
